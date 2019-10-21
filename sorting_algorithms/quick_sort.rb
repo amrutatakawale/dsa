@@ -2,7 +2,7 @@
 #Selects pivot element
 #elements lesser than pivot will be at left and greater than pivot will be at right side
 #Pivote will be placed at right poision post partition
-#Again steps repeats for every sub-array
+#Again steps repeat for every sub-array
 
 arr = [1,4,3,4,2,5]
 
